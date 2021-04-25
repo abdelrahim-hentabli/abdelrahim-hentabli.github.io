@@ -1,6 +1,6 @@
 ---
 title: Skychart.js
-subtitle: Website Design
+subtitle: Website Development
 layout: default
 modal-id: 1
 date: 2020-04-24
