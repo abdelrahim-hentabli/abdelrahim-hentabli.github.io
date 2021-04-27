@@ -11,6 +11,6 @@ alt: image-alt
 github-link: https://github.com/abdelrahim-hentabli/skychart.js
 language: JavaScript
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A map of the Celestial Sphere. Uses your current location and current time to create calculate what the stars above you look like.
 
 ---
