@@ -1,5 +1,6 @@
 ---
 title: Skychart.js
+link: /skychart.js
 subtitle: Website Development
 layout: default
 modal-id: 1
@@ -8,7 +9,7 @@ img: skychart.png
 thumbnail: skychart-thumbnail.png
 alt: image-alt
 project-date: April 2020
-client: React
+Language: React
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
