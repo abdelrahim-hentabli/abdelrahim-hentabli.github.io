@@ -11,6 +11,6 @@ alt: image-alt
 github-link: https://github.com/abdelrahim-hentabli/skychart.js
 language: JavaScript
 category: Web Development
-description: A map of the Celestial Sphere. Uses your current location and current time to create calculate what the stars above you look like.
+description: A map of the Celestial Sphere built in React.<br/>Uses your current location and current time to create calculate what the stars above you look like.
 
 ---

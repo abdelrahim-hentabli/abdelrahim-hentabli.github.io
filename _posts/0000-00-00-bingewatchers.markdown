@@ -7,9 +7,9 @@ date: 2019-05-01
 img: bingewatchers.gif
 thumbnail: bingewatchers-thumbnail.gif
 alt: image-alt
-github-link: https://github.com/abdelrahim-hentabli/skychart.js
+github-link: https://github.com/GrayGorilla/binge-watchers-server
 language: JavaScript
 category: Backend Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Web App used to research analysis on Kaggle Youtube Trending Dataset. Created REST API using express.js. I developed the backend with fast querys of data, analysis on data, and CRUD operations.<br/>Worked on a team with Nathan Brennan and Wesley Devore.
 
 ---
