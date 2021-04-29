@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Embedded Systems
-description: An Embedded System on a raspberry pi with an interface through SSH to help astronomers find and track stars on a mock real-world telescope.
+description: An Embedded System on a raspberry pi with an interface through SSH to help astronomers find and track stars on a mock real-world telescope. 
 
 ---
