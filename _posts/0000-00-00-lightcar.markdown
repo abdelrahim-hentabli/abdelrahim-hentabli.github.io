@@ -7,8 +7,8 @@ date: 2014-07-14
 img: lightcar.gif
 thumbnail: lightcar-thumbnail.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+link: https://www.youtube.com/watch?v=RpLjGMq6Ip0
+language: C
 category: Embedded Systems
 description: An Embedded Systems project using the Atmega1284 that tried to move out of the shade for a potential place to put plants.
 

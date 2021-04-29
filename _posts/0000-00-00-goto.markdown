@@ -7,8 +7,9 @@ date: 2014-07-15
 img: goto.gif
 thumbnail: goto-thumbnail.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+link: https://www.youtube.com/watch?v=8c87VGk2wdo
+github-link: https://github.com/abdelrahim-hentabli/goto
+language: Python
 category: Embedded Systems
 description: An Embedded System on a raspberry pi with an interface through SSH to help astronomers find and track stars on a mock real-world telescope. 
 
