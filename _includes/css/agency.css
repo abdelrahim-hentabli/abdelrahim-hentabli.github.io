@@ -459,7 +459,7 @@ section h3.section-subheading {
 
 .timeline>li:before,
 .timeline>li:after {
-    content: " ";
+    content: "";
     display: table;
 }
 
