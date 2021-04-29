@@ -28,14 +28,16 @@
                                 <li>Language:
                                     <strong>{{ post.language }}
                                     </strong>
-                                </li>  
+                                </li> 
+                                {% if post.github-link != null%}
                                 <li>Code:
                                     <strong><a href="{{post.github-link}}">Github</a>
                                     </strong>
                                 </li>
+                                {% endif %}
                                 {% if post.link != null%}
                                 <li>Project:
-                                    <strong><a href="{{post.link}}">Github Pages</a>
+                                    <strong><a href="{{post.link}}">{{post.project-host}}</a>
                                     </strong>
                                 </li>
                                 {% endif %}
