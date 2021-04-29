@@ -8,6 +8,7 @@ img: skychart.png
 thumbnail: skychart-thumbnail.png
 alt: image-alt
 link: /skychart.js
+project-host: Github Pages
 github-link: https://github.com/abdelrahim-hentabli/skychart.js
 language: JavaScript
 category: Web Development

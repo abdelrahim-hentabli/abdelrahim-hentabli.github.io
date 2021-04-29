@@ -8,6 +8,7 @@ img: goto.gif
 thumbnail: goto-thumbnail.gif
 alt: image-alt
 link: https://www.youtube.com/watch?v=8c87VGk2wdo
+project-host: Youtube
 github-link: https://github.com/abdelrahim-hentabli/goto
 language: Python
 category: Embedded Systems
