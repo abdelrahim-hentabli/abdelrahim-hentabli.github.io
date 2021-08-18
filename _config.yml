@@ -20,3 +20,9 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Open Graph Protocol MetaData
+opgtitle: Rahim Hentabli
+opgtype: website
+opgimage: /img/thumbnail.png
+opgurl: https://www.rhentabli.com
